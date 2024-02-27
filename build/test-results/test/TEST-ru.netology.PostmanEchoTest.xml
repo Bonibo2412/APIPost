@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.PostmanEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-26T13:07:46" hostname="DESKTOP-OH9APIG" time="5.74">
+<testsuite name="ru.netology.PostmanEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-27T14:34:40" hostname="DESKTOP-OH9APIG" time="6.161">
   <properties/>
-  <testcase name="scholdReturnSendData()" classname="ru.netology.PostmanEchoTest" time="5.74"/>
+  <testcase name="scholdReturnSendData()" classname="ru.netology.PostmanEchoTest" time="6.161"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
